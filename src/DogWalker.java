@@ -4,7 +4,7 @@ public class DogWalker {
     private DogWalkCompany company;
 
     public DogWalker(int max, DogWalkCompany comp) {
-        int maxDogs = max;
+         maxDogs = max;
          company = comp;
 
     }
