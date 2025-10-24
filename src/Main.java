@@ -15,7 +15,6 @@ public class Main {
             System.out.println(c.numAvailableDogs(hour) + "dogs remaining");
             System.out.println(c);
             System.out.println("$" + w.dogWalkShift(7,10) + ".00 earned");
-        System.out.println(read());
         }
         public static int read() throws FileNotFoundException {
             int money = 0;
